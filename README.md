@@ -1,10 +1,9 @@
-| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | 
---| --| --|
-<!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
-
+| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | --| --| --|
+<!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#)-->
 <br>
-### Oh hi there 👋 I am DK, a Software Engineer and a huge fan of open source development.<br>
-<br><br>1.  🧑 **PERSONA**<br>
+
+###Oh hi there 👋 I am DK, a Software Engineer and a huge fan of open source development.<br>
+<br><br>1.🧑**PERSONA**<br>
 
 &emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Kenya 🇰🇪<br>
 &emsp;&emsp;&emsp;**Physique**&emsp;&emsp;&emsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
