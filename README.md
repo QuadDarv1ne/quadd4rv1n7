@@ -3,9 +3,7 @@
 <!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
 
 <br>
-
 ### Oh hi there 👋 I am DK, a Software Engineer and a huge fan of open source development.<br>
-
 <br><br>1.  🧑 **PERSONA**<br>
 
 &emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Kenya 🇰🇪<br>
@@ -13,15 +11,14 @@
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
-      i. Mobile application development: - Android - Java (Also Learning Kotlin).              
-     ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf.               
-     ii. Backend Development: - SpringBoot, PHP.               
-    iii. Shell Scripting: - Bash programming.    
-     iv. Databases: - MySQL, Postgres.            
-      v. UX/UI Design: - Adobe XD, Figma.             
+      i. Mobile application development: - Android - Java (Also Learning Kotlin).
+     ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf.
+     ii. Backend Development: - SpringBoot, PHP.
+    iii. Shell Scripting: - Bash programming.
+     iv. Databases: - MySQL, Postgres.
+      v. UX/UI Design: - Adobe XD, Figma.
      vi. Virtualization: - VMWARE.
      vii. Operating Systems: - Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
-             
 
 <br><br>3.  ✨ **OPEN SOURCE**<br>
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
@@ -50,7 +47,6 @@
 <br><br>6.  🕰️ **PART-TIME WORK**<br>
 &emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
-
 <br><br>7.  🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|LINK|
 |-|-|-|
@@ -58,7 +54,6 @@
 | Swahili | Professional | N/A |
 | Spanish | Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/davidkariuki) |
 ||||
-
 
 <br><br>8. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;
@@ -69,17 +64,14 @@
 &emsp;&emsp;&emsp;
 [![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkariuki) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/David-Kariuki-7/) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/david_kariuki)
 
-
 <br><br>10.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
 &emsp;&emsp;&emsp;&emsp;Click the widget below for more<br>
 &emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
-&emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Unix & Linux, Information Security, ServerFault. 
-    
+&emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Unix & Linux, Information Security, ServerFault.  
 <br><br> 
 
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <br>
 
 <!--
@@ -95,21 +87,14 @@
 <br>
 [![GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 -->
-
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=david-kariuki&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br>
-
 ***
-
 <br>
 
 Please click the red button below to nominate me for the Github Stars programme. <br>
 
 <a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me --> @david--kariuki-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
-
-
 <br>
-
