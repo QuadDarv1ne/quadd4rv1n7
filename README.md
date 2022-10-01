@@ -27,23 +27,22 @@
 | 3 | [Android Internet Connectivity Class](https://github.com/david-kariuki/AndroidInternetConnectivity) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | This class checks for internet connection availability, speed and network type on your android phone. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/AndroidInternetConnectivity)
 |  |  |  |  |
 | 4 | [vmware-host-modules-builder](https://github.com/linuxeuphony/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian, Arch) | The script downloads, builds and installs Vmware host modules for your Linux Vmware. | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) | ![](https://img.shields.io/github/stars/linuxeuphony/vmware-host-modules-builder-cli)
-| 5 | [desktop-environment-tool-cli](https://github.com/linuxeuphony/linux-desktop-environment-tool-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.  | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) | ![](https://img.shields.io/github/stars/linuxeuphony/linux-desktop-environment-tool-cli)
-|  | |  |  |  | |
-   
-<br><br>4.  📙 **Documented Learning Projects**
+| 5 | [desktop-environment-tool-cli](https://github.com/linuxeuphony/linux-desktop-environment-tool-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.
+![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white)
+![](https://img.shields.io/github/stars/linuxeuphony/linux-desktop-environment-tool-cli)
+
+<br><br>4. 📙 **Documented Learning Projects**
 |#|PROJECT NAME|PROJECT DESCRIPTION| STARS |
 |-|-|-|-|
 |1.|[Ace The Java Coding Interview](https://github.com/david-kariuki/AceTheJavaCodingInterview)|Solve problems that are commonly asked in Java coding interviews related to common data structures like arrays, linked lists, strings, stacks, and queues, etc.| ![](https://img.shields.io/github/stars/david-kariuki/AceTheJavaCodingInterview)
 |2.|[JUnit Testing](https://github.com/david-kariuki/JUnitTestingProject)|How to write unit tests with JUnit 5| ![](https://img.shields.io/github/stars/david-kariuki/JUnitTestingProject)
-|||||
 
-<br><br>5.  ⌚ **FUTURE VENTURES**<br>
+<br><br>5. ⌚ **FUTURE VENTURES**<br>
     
     - Cloud Architecture
     - Machine learning & Artificial Intelligence.
-    - IOT
 
-<br><br>6.  🕰️ **PART-TIME WORK**<br>
+<br><br>6. 🕰️ **PART-TIME WORK**<br>
 &emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 <br><br>7.  🗣️ **LANGUAGES**<br>
