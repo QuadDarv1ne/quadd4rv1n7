@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&random=false&width=435&lines=%D0%AD%D1%82%D0%BE+%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F;%D0%BD%D0%B0+GitHub)](https://git.io/typing-svg)
+
 | [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | --| --| --|
 <!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#)-->
 <br>
